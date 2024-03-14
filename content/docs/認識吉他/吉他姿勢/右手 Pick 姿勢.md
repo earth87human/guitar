@@ -1,5 +1,6 @@
 ---
 weight: 3
+bookToc: false
 ---
 
 # 右手Pick姿勢 Pick Holding

@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E4%BB%8B%E7%B4%B9/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B/%E4%BB%8B%E7%B4%B9/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E4%BB%8B%E7%B4%B9/</loc>
+  </url><url>
     <loc>https://example.org/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/%E6%8C%81%E7%90%B4%E5%A7%BF%E5%8B%A2/</loc>
   </url><url>
     <loc>https://example.org/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E7%A8%AE%E9%A1%9E/</loc>
@@ -14,6 +24,14 @@
   </url><url>
     <loc>https://example.org/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/</loc>
   </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E7%B7%B4%E7%BF%92-1/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B/%E7%B7%B4%E7%BF%92-1/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E7%B7%B4%E7%BF%92-1/</loc>
+  </url><url>
     <loc>https://example.org/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/%E5%8F%B3%E6%89%8B%E6%92%A5%E5%BC%A6%E5%A7%BF%E5%8B%A2/</loc>
   </url><url>
     <loc>https://example.org/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E6%A7%8B%E9%80%A0/</loc>
@@ -25,6 +43,8 @@
     <loc>https://example.org/docs/example/table-of-contents/without-toc/</loc>
   </url><url>
     <loc>https://example.org/docs/%E6%A8%82%E7%90%86/</loc>
+  </url><url>
+    <loc>https://example.org/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B/</loc>
   </url><url>
     <loc>https://example.org/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/%E5%8F%B3%E6%89%8B-pick-%E5%A7%BF%E5%8B%A2/</loc>
   </url><url>
